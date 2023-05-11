@@ -1,0 +1,4 @@
+name: SaehyeonLib
+version: '${project.version}'
+main: me.saehyeon.saehyeonlib.SaehyeonLib
+api-version: 1.17

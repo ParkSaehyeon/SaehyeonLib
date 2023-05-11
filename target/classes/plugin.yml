@@ -1,0 +1,4 @@
+name: SaehyeonLib
+version: '1.0'
+main: me.saehyeon.saehyeonlib.SaehyeonLib
+api-version: 1.17
